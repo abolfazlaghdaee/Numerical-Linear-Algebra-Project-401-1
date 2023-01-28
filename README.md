@@ -5,7 +5,7 @@ This is a final project for the course **Numerical Linear Algebra** at the Unive
 
 ## How To Run:
 
-at first you should add `src` to your local python
-then run each cell in `ipynb` file :) thanks
+at first you should add `src` to your local python :)
+
 
 
